@@ -12,6 +12,7 @@ Trigger 7.<br>
 Trigger 8.<br>
 Trigger 9.<br>
 Trigger 10.<br>
+Trigger 11.<br>
 
 This is an example of a Concourse pipeline that builds, tests and deploys a **Node.js** sample application using the [Blue-Green deployment methodology](http://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html).
 
